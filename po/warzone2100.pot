@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: warzone2100\n"
 "Report-Msgid-Bugs-To: warzone2100-project@lists.sourceforge.net\n"
-"POT-Creation-Date: 2020-05-09 04:42+0000\n"
+"POT-Creation-Date: 2020-05-15 13:53+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -3664,7 +3664,7 @@ msgstr ""
 #: data/base/messages/strings/resstrings.txt:781
 #: data/mp/messages/strings/resstrings.txt:373
 #: data/mp/messages/strings/resstrings.txt:378
-#: po/custom/fromJson.txt:1093
+#: po/custom/fromJson.txt:1099
 msgid "Best Targets: Base Structures, infantry, wheeled vehicles"
 msgstr ""
 
@@ -3867,7 +3867,7 @@ msgstr ""
 #. ... + 4 refs
 #: data/base/messages/strings/resstrings.txt:893
 #: data/mp/messages/strings/resstrings.txt:413
-#: po/custom/fromJson.txt:1099
+#: po/custom/fromJson.txt:1093
 msgid "Best Targets: Base structures, infantry, wheeled vehicles"
 msgstr ""
 
@@ -3878,7 +3878,7 @@ msgstr ""
 #. ... + 28 refs
 #: data/base/messages/strings/resstrings.txt:894
 #: data/mp/messages/strings/resstrings.txt:414
-#: po/custom/fromJson.txt:1189
+#: po/custom/fromJson.txt:1194
 msgid "Body Points: Very Low"
 msgstr ""
 
@@ -4091,8 +4091,8 @@ msgstr ""
 #: data/base/script/tutorial.js:510
 #: data/mp/multiplay/skirmish/rules.js:177
 #: src/challenge.cpp:217
-#: src/hci.cpp:2965
-#: src/hci.cpp:3686
+#: src/hci.cpp:2962
+#: src/hci.cpp:3683
 #: src/intelmap.cpp:400
 #: src/intorder.cpp:608
 #: src/loadsave.cpp:245
@@ -7089,7 +7089,7 @@ msgstr ""
 #. data/base/messages/resmessages1.json: $.RES_FLAME1.text[3]
 #. data/mp/messages/resmessages1.json: $.RES_FLAME1.text[3]
 #. data/mp/messages/resmessagesall.json: $.RES_PLFL.text[3]
-#: po/custom/fromJson.txt:1194
+#: po/custom/fromJson.txt:1188
 msgid "Body Points: Very low"
 msgstr ""
 
@@ -14500,21 +14500,21 @@ msgstr ""
 msgid "Strategy Game"
 msgstr ""
 
-#: src/cheat.cpp:164
+#: src/cheat.cpp:165
 #, c-format
 msgid "%s wants to enable debug mode. Enabled: %s, Disabled: %s."
 msgstr ""
 
-#: src/cheat.cpp:168
+#: src/cheat.cpp:169
 #, c-format
 msgid "%s wants to disable debug mode. Enabled: %s, Disabled: %s."
 msgstr ""
 
-#: src/cheat.cpp:174
+#: src/cheat.cpp:175
 msgid "Debug mode now enabled!"
 msgstr ""
 
-#: src/cheat.cpp:180
+#: src/cheat.cpp:181
 msgid "Debug mode now disabled!"
 msgstr ""
 
@@ -14891,7 +14891,7 @@ msgstr ""
 msgid "Out of sync"
 msgstr ""
 
-#: src/display3d.cpp:1911
+#: src/display3d.cpp:1910
 #, c-format
 msgid "Setting zoom to %.0f"
 msgstr ""
@@ -15460,79 +15460,79 @@ msgstr ""
 msgid "GAME SAVED: "
 msgstr ""
 
-#: src/hci.cpp:1567
+#: src/hci.cpp:1566
 #, c-format
 msgid "Player %u is cheating (debug menu) him/herself a new structure: %s."
 msgstr ""
 
-#: src/hci.cpp:1578
+#: src/hci.cpp:1575
 #, c-format
 msgid "Player %u is cheating (debug menu) him/herself a new feature: %s."
 msgstr ""
 
-#: src/hci.cpp:1600
+#: src/hci.cpp:1597
 #, c-format
 msgid "Player %u is cheating (debug menu) him/herself a new droid: %s."
 msgstr ""
 
-#: src/hci.cpp:1608
+#: src/hci.cpp:1605
 #, c-format
 msgid "Player %u is cheating (debug menu) him/herself a new droid."
 msgstr ""
 
-#: src/hci.cpp:2819
+#: src/hci.cpp:2816
 #: src/multiint.cpp:1360
 #: src/multimenu.cpp:770
 msgid "Power"
 msgstr ""
 
-#: src/hci.cpp:3000
+#: src/hci.cpp:2997
 msgid "Progress Bar"
 msgstr ""
 
-#: src/hci.cpp:3530
+#: src/hci.cpp:3527
 msgid "Hiding Obsolete Tech"
 msgstr ""
 
-#: src/hci.cpp:3532
+#: src/hci.cpp:3529
 msgid "Showing Obsolete Tech"
 msgstr ""
 
-#: src/hci.cpp:3544
+#: src/hci.cpp:3541
 msgid ""
 "Showing All Tech\n"
 "Right-click to add to Favorites"
 msgstr ""
 
-#: src/hci.cpp:3546
+#: src/hci.cpp:3543
 msgid ""
 "Showing Only Favorite Tech\n"
 "Right-click to remove from Favorites"
 msgstr ""
 
-#: src/hci.cpp:3626
+#: src/hci.cpp:3623
 msgid "Factory Delivery Point"
 msgstr ""
 
-#: src/hci.cpp:3635
+#: src/hci.cpp:3632
 msgid "Loop Production"
 msgstr ""
 
-#: src/hci.cpp:3833
+#: src/hci.cpp:3830
 msgid "Ally progress"
 msgstr ""
 
-#: src/hci.cpp:3848
+#: src/hci.cpp:3845
 msgid ""
 "\n"
 "Cost: %1"
 msgstr ""
 
-#: src/hci.cpp:4947
+#: src/hci.cpp:4944
 msgid "Chat: All"
 msgstr ""
 
-#: src/hci.cpp:4952
+#: src/hci.cpp:4949
 msgid "Chat: Team"
 msgstr ""
 
@@ -15638,7 +15638,7 @@ msgid "Need more resources!"
 msgstr ""
 
 #: src/intelmap.cpp:239
-#: src/keybind.cpp:1379
+#: src/keybind.cpp:1362
 msgid "PAUSED"
 msgstr ""
 
@@ -15801,240 +15801,240 @@ msgstr ""
 msgid "View Aligned to West"
 msgstr ""
 
-#: src/keybind.cpp:411
+#: src/keybind.cpp:410
 #, c-format
 msgid "Player %u is cheating a new droid army of: %d × %s."
 msgstr ""
 
-#: src/keybind.cpp:510
-#: src/keybind.cpp:540
-#: src/keybind.cpp:557
-#: src/keybind.cpp:600
-#: src/keybind.cpp:704
-#: src/keybind.cpp:743
-#: src/keybind.cpp:799
-#: src/keybind.cpp:1310
-#: src/keybind.cpp:1433
-#: src/keybind.cpp:1538
-#: src/keybind.cpp:1843
-#: src/keybind.cpp:1884
+#: src/keybind.cpp:507
+#: src/keybind.cpp:535
+#: src/keybind.cpp:550
+#: src/keybind.cpp:591
+#: src/keybind.cpp:692
+#: src/keybind.cpp:729
+#: src/keybind.cpp:784
+#: src/keybind.cpp:1294
+#: src/keybind.cpp:1415
+#: src/keybind.cpp:1517
+#: src/keybind.cpp:1821
+#: src/keybind.cpp:1861
 #, c-format
 msgid "(Player %u) is using cheat :%s"
 msgstr ""
 
-#: src/keybind.cpp:511
+#: src/keybind.cpp:508
 msgid "Hard as nails!!!"
 msgstr ""
 
-#: src/keybind.cpp:525
+#: src/keybind.cpp:522
 msgid "Takings thing easy!"
 msgstr ""
 
-#: src/keybind.cpp:541
+#: src/keybind.cpp:536
 msgid "1000 big ones!!!"
 msgstr ""
 
-#: src/keybind.cpp:558
+#: src/keybind.cpp:551
 msgid "Power overwhelming"
 msgstr ""
 
-#: src/keybind.cpp:573
+#: src/keybind.cpp:566
 msgid "Back to normality!"
 msgstr ""
 
-#: src/keybind.cpp:586
+#: src/keybind.cpp:579
 msgid "Getting tricky!"
 msgstr ""
 
-#: src/keybind.cpp:601
+#: src/keybind.cpp:592
 msgid "Twice as nice!"
 msgstr ""
 
-#: src/keybind.cpp:612
+#: src/keybind.cpp:603
 msgid "FPS display is enabled."
 msgstr ""
 
-#: src/keybind.cpp:616
+#: src/keybind.cpp:607
 msgid "FPS display is disabled."
 msgstr ""
 
-#: src/keybind.cpp:669
+#: src/keybind.cpp:659
 #, c-format
 msgid "(Player %u) is using a cheat :Num Droids: %d  Num Structures: %d  Num Features: %d"
 msgstr ""
 
-#: src/keybind.cpp:705
+#: src/keybind.cpp:693
 msgid "Infinite power disabled"
 msgstr ""
 
-#: src/keybind.cpp:705
+#: src/keybind.cpp:693
 msgid "Infinite power enabled"
 msgstr ""
 
-#: src/keybind.cpp:744
+#: src/keybind.cpp:730
 msgid "All items made available"
 msgstr ""
 
-#: src/keybind.cpp:800
+#: src/keybind.cpp:785
 msgid "Fog on"
 msgstr ""
 
-#: src/keybind.cpp:800
+#: src/keybind.cpp:785
 msgid "Fog off"
 msgstr ""
 
-#: src/keybind.cpp:909
-#: src/keybind.cpp:922
+#: src/keybind.cpp:894
+#: src/keybind.cpp:907
 #, c-format
 msgid "Setting radar zoom to %u"
 msgstr ""
 
-#: src/keybind.cpp:1311
+#: src/keybind.cpp:1295
 msgid "God Mode ON"
 msgstr ""
 
-#: src/keybind.cpp:1311
+#: src/keybind.cpp:1295
 msgid "God Mode OFF"
 msgstr ""
 
-#: src/keybind.cpp:1323
+#: src/keybind.cpp:1307
 msgid "View Aligned to North"
 msgstr ""
 
-#: src/keybind.cpp:1348
+#: src/keybind.cpp:1331
 #, c-format
 msgid "Trap cursor %s"
 msgstr ""
 
-#: src/keybind.cpp:1434
+#: src/keybind.cpp:1416
 msgid "Researched EVERYTHING for you!"
 msgstr ""
 
-#: src/keybind.cpp:1458
+#: src/keybind.cpp:1440
 msgid "Selected buildings instantly recharged!"
 msgstr ""
 
-#: src/keybind.cpp:1499
+#: src/keybind.cpp:1480
 #, c-format
 msgid "(Player %u) is using cheat :%s %s"
 msgstr ""
 
-#: src/keybind.cpp:1499
+#: src/keybind.cpp:1480
 msgid "Researched"
 msgstr ""
 
-#: src/keybind.cpp:1520
+#: src/keybind.cpp:1501
 msgid "Only displaying energy bars when selected"
 msgstr ""
 
-#: src/keybind.cpp:1523
+#: src/keybind.cpp:1504
 msgid "Always displaying energy bars for units"
 msgstr ""
 
-#: src/keybind.cpp:1526
+#: src/keybind.cpp:1507
 msgid "Always displaying energy bars for units and structures"
 msgstr ""
 
-#: src/keybind.cpp:1539
+#: src/keybind.cpp:1518
 msgid "Debug menu is Open"
 msgstr ""
 
-#: src/keybind.cpp:1574
+#: src/keybind.cpp:1553
 msgid "Unable to locate any oil derricks!"
 msgstr ""
 
-#: src/keybind.cpp:1738
+#: src/keybind.cpp:1717
 msgid "Oh, the weather outside is frightful... SNOW"
 msgstr ""
 
-#: src/keybind.cpp:1744
+#: src/keybind.cpp:1723
 msgid "Singing in the rain, I'm singing in the rain... RAIN"
 msgstr ""
 
-#: src/keybind.cpp:1750
+#: src/keybind.cpp:1729
 msgid "Forecast : Clear skies for all areas... NO WEATHER"
 msgstr ""
 
-#: src/keybind.cpp:1842
+#: src/keybind.cpp:1820
 msgid "Warning! This can have drastic consequences if used incorrectly in missions."
 msgstr ""
 
-#: src/keybind.cpp:1844
+#: src/keybind.cpp:1822
 msgid "All enemies destroyed by cheating!"
 msgstr ""
 
-#: src/keybind.cpp:1885
+#: src/keybind.cpp:1862
 msgid "Destroying selected droids and structures!"
 msgstr ""
 
-#: src/keybind.cpp:2313
+#: src/keybind.cpp:2290
 msgid "Reveal OFF"
 msgstr ""
 
-#: src/keybind.cpp:2318
+#: src/keybind.cpp:2295
 msgid "Reveal ON"
 msgstr ""
 
-#: src/keybind.cpp:2399
+#: src/keybind.cpp:2376
 msgid "Centered on player HQ, direction NORTH"
 msgstr ""
 
-#: src/keybind.cpp:2411
+#: src/keybind.cpp:2388
 msgid "Unable to locate HQ!"
 msgstr ""
 
-#: src/keybind.cpp:2418
+#: src/keybind.cpp:2395
 msgid "Formation speed limiting has been removed from the game due to bugs."
 msgstr ""
 
-#: src/keybind.cpp:2467
+#: src/keybind.cpp:2444
 msgid "Vertical rotation direction: Normal"
 msgstr ""
 
-#: src/keybind.cpp:2472
+#: src/keybind.cpp:2449
 msgid "Vertical rotation direction: Flipped"
 msgstr ""
 
-#: src/keybind.cpp:2524
+#: src/keybind.cpp:2501
 msgid "Sorry, but game speed cannot be changed in multiplayer."
 msgstr ""
 
-#: src/keybind.cpp:2559
-#: src/keybind.cpp:2613
+#: src/keybind.cpp:2536
+#: src/keybind.cpp:2590
 msgid "Game Speed Reset"
 msgstr ""
 
-#: src/keybind.cpp:2563
+#: src/keybind.cpp:2540
 #, c-format
 msgid "Game Speed Increased to %s"
 msgstr ""
 
-#: src/keybind.cpp:2567
+#: src/keybind.cpp:2544
 #, c-format
 msgid "Game Speed Reduced to %s"
 msgstr ""
 
-#: src/keybind.cpp:2625
+#: src/keybind.cpp:2602
 msgid "Radar showing friend-foe colors"
 msgstr ""
 
-#: src/keybind.cpp:2629
+#: src/keybind.cpp:2606
 msgid "Radar showing player colors"
 msgstr ""
 
-#: src/keybind.cpp:2644
+#: src/keybind.cpp:2621
 msgid "Radar showing only objects"
 msgstr ""
 
-#: src/keybind.cpp:2647
+#: src/keybind.cpp:2624
 msgid "Radar blending terrain and height"
 msgstr ""
 
-#: src/keybind.cpp:2650
+#: src/keybind.cpp:2627
 msgid "Radar showing terrain"
 msgstr ""
 
-#: src/keybind.cpp:2653
+#: src/keybind.cpp:2630
 msgid "Radar showing height"
 msgstr ""
 
@@ -16950,87 +16950,87 @@ msgstr ""
 msgid "Sorry! Failed to host the game."
 msgstr ""
 
-#: src/multiint.cpp:3200
-#: src/multiint.cpp:3290
+#: src/multiint.cpp:3198
+#: src/multiint.cpp:3286
 #: src/multimenu.cpp:1324
 #, c-format
 msgid "The host has kicked %s from the game!"
 msgstr ""
 
-#: src/multiint.cpp:3347
+#: src/multiint.cpp:3343
 msgid "Host is Starting Game"
 msgstr ""
 
-#: src/multiint.cpp:3557
+#: src/multiint.cpp:3553
 msgid "You have been kicked: "
 msgstr ""
 
-#: src/multiint.cpp:3569
+#: src/multiint.cpp:3565
 msgid "No connection to host."
 msgstr ""
 
-#: src/multiint.cpp:3707
+#: src/multiint.cpp:3703
 msgid "Cannot change to a map with too few slots for all players."
 msgstr ""
 
-#: src/multiint.cpp:3817
+#: src/multiint.cpp:3813
 msgid "The host has quit."
 msgstr ""
 
-#: src/multiint.cpp:3943
+#: src/multiint.cpp:3939
 msgid "UPnP has been enabled."
 msgstr ""
 
-#: src/multiint.cpp:3949
+#: src/multiint.cpp:3945
 msgid "UPnP detection failed. You must manually configure router yourself."
 msgstr ""
 
-#: src/multiint.cpp:3953
+#: src/multiint.cpp:3949
 msgid "UPnP detection is in progress..."
 msgstr ""
 
-#: src/multiint.cpp:3960
+#: src/multiint.cpp:3956
 msgid "UPnP detection disabled by user. Autoconfig of port 2100 will not happen."
 msgstr ""
 
-#: src/multiint.cpp:3966
+#: src/multiint.cpp:3962
 msgid "Hit the ready box to begin your challenge!"
 msgstr ""
 
-#: src/multiint.cpp:3970
+#: src/multiint.cpp:3966
 msgid "Press the start hosting button to begin hosting a game."
 msgstr ""
 
-#: src/multiint.cpp:4051
+#: src/multiint.cpp:4047
 #, c-format
 msgid "Click to take player slot %d"
 msgstr ""
 
-#: src/multiint.cpp:4065
-#: src/multiint.cpp:4297
+#: src/multiint.cpp:4061
+#: src/multiint.cpp:4293
 msgid "Open"
 msgstr ""
 
-#: src/multiint.cpp:4065
-#: src/multiint.cpp:4298
+#: src/multiint.cpp:4061
+#: src/multiint.cpp:4294
 msgid "Closed"
 msgstr ""
 
-#: src/multiint.cpp:4130
+#: src/multiint.cpp:4126
 #, c-format
 msgid "Sending Map: %u%% "
 msgstr ""
 
-#: src/multiint.cpp:4130
+#: src/multiint.cpp:4126
 #, c-format
 msgid "Map: %u%% downloaded"
 msgstr ""
 
-#: src/multiint.cpp:4178
+#: src/multiint.cpp:4174
 msgid "HOST"
 msgstr ""
 
-#: src/multiint.cpp:4185
+#: src/multiint.cpp:4181
 #: src/multimenu.cpp:777
 msgid "Ping"
 msgstr ""
