@@ -367,6 +367,82 @@
         "type": "CORNER WALL",
         "width": 1
     },
+    "CollectiveCWall": {
+        "armour": 12,
+        "breadth": 1,
+        "buildPoints": 125,
+        "buildPower": 25,
+        "ecmID": "ZNULLECM",
+        "height": 2,
+        "hitpoints": 250,
+        "id": "CollectiveCWall",
+        "name": "Collective CWall",
+        "sensorID": "ZNULLSENSOR",
+        "strength": "HARD",
+        "structureModel": [
+            "BLWALLC2.pie"
+        ],
+        "thermal": 12,
+        "type": "CORNER WALL",
+        "width": 1
+    },
+    "CollectiveWall": {
+        "armour": 12,
+        "breadth": 1,
+        "buildPoints": 125,
+        "buildPower": 25,
+        "ecmID": "ZNULLECM",
+        "height": 2,
+        "hitpoints": 250,
+        "id": "CollectiveWall",
+        "name": "Collective Wall",
+        "sensorID": "ZNULLSENSOR",
+        "strength": "HARD",
+        "structureModel": [
+            "BLWALL2.pie"
+        ],
+        "thermal": 12,
+        "type": "WALL",
+        "width": 1
+    },
+    "NEXUSCWall": {
+        "armour": 15,
+        "breadth": 1,
+        "buildPoints": 125,
+        "buildPower": 25,
+        "ecmID": "ZNULLECM",
+        "height": 2,
+        "hitpoints": 250,
+        "id": "NEXUSCWall",
+        "name": "NEXUS CWall",
+        "sensorID": "ZNULLSENSOR",
+        "strength": "HARD",
+        "structureModel": [
+            "BLWALLC3.pie"
+        ],
+        "thermal": 15,
+        "type": "CORNER WALL",
+        "width": 1
+    },
+    "NEXUSWall": {
+        "armour": 15,
+        "breadth": 1,
+        "buildPoints": 125,
+        "buildPower": 25,
+        "ecmID": "ZNULLECM",
+        "height": 2,
+        "hitpoints": 250,
+        "id": "NEXUSWall",
+        "name": "NEXUS Wall",
+        "sensorID": "ZNULLSENSOR",
+        "strength": "HARD",
+        "structureModel": [
+            "BLWALL3.pie"
+        ],
+        "thermal": 15,
+        "type": "WALL",
+        "width": 1
+    },
     "A0HardcreteMk1Gate": {
         "armour": 15,
         "breadth": 1,

@@ -864,7 +864,11 @@
         "researchPower": 18,
         "resultStructures": [
             "A0HardcreteMk1CWall",
-            "A0HardcreteMk1Wall"
+            "A0HardcreteMk1Wall",
+            "CollectiveCWall",
+            "CollectiveWall",
+            "NEXUSCWall",
+            "NEXUSWall"
         ],
         "statID": "A0HardcreteMk1Wall"
     },
